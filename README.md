@@ -1,1 +1,1 @@
-# Decipher the influence of data at Gap
+# Decipher the influence of Big Data at Gap Inc.
