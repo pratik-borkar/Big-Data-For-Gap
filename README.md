@@ -35,6 +35,6 @@ The project is structured into three main analysis areas:
 - **Banana Republic**: Known for quality and classy designs. A data-driven approach may limit the brand's capacity to develop unique and innovative products.
 
 ## Tools and Technologies Used
-- Python for web scraping and data analysis
-- Statistical analysis performed using SciPy for hypothesis testing
-- Data visualization with Matplotlib and Seaborn
+- Python for web scraping and data analysis (including Regression)
+- Statistical analysis for hypothesis testing
+- Data visualization with MS Excel, Matplotlib, and Seaborn
